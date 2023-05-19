@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\bin\Debug\net7.0\BancoC#.exe
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\bin\Debug\net7.0\BancoC#.deps.json
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\bin\Debug\net7.0\BancoC#.runtimeconfig.json
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\bin\Debug\net7.0\BancoC#.dll
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\bin\Debug\net7.0\BancoC#.pdb
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.dll
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\refint\BancoC#.dll
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.pdb
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\BancoC#.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Escritorio\College\4to Semestre\HerramientasProgramacionI\C#\BancoC#\obj\Debug\net7.0\ref\BancoC#.dll
